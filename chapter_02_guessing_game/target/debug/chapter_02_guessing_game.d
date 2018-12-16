@@ -1,0 +1,1 @@
+/Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_02_guessing_game/target/debug/chapter_02_guessing_game.dSYM: /Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_02_guessing_game/src/main.rs

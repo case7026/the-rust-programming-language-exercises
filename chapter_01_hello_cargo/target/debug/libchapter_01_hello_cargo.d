@@ -1,0 +1,1 @@
+/Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_01_hello_cargo/target/debug/libchapter_01_hello_cargo.rmeta: /Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_01_hello_cargo/src/main.rs

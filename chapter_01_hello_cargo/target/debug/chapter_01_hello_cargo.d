@@ -1,0 +1,1 @@
+/Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_01_hello_cargo/target/debug/chapter_01_hello_cargo.dSYM: /Users/aaron/projects/experiments/the-rust-programming-language-exercises/chapter_01_hello_cargo/src/main.rs

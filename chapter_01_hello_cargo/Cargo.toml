@@ -1,0 +1,7 @@
+[package]
+name = "chapter_01_hello_cargo"
+version = "0.1.0"
+authors = ["Aaron Paz <aaron@polyverse.io>"]
+edition = "2018"
+
+[dependencies]
